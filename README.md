@@ -29,6 +29,16 @@
 <p style="font-size: 20px; font-family:Inconsolata, monospace" align="center"> 👔 I am currently working at <a href="https://rcac.purdue.edu">Rosen Center for Advance Computing</a> as a Student Systems Administrator.</p>
 <p style="font-size: 20px; font-family:Inconsolata, monospace" align="center"> 🤞🏽 I have done many projects in my free time and I am always looking to learn new things. Hopefully you find some of them interesting.</p>
 
+---
+<div align="center">
+<h2>Familiar Operating Systems:</h2>
+<a href="https://centos.org"><img src="https://img.shields.io/badge/CENT OS-262577?logo=centos&logoColor=white&style=for-the-badge"></a>
+<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/UBUNTU-E95420?logo=ubuntu&logoColor=white&style=for-the-badge"></a>
+<a href="https://pop.system76.com/"><img src="https://img.shields.io/badge/POP!_OS-48B9C7?logo=popos&logoColor=white&style=for-the-badge"></a>
+<a href="https://getfedora.org/"><img src="https://img.shields.io/badge/FEDORA-51A2DA?logo=fedora&logoColor=white&style=for-the-badge"></a>
+<a href="https://rockylinux.org/"><img src="https://img.shields.io/badge/ROCKY LINUX-10B981?logo=rockylinux&logoColor=white&style=for-the-badge"></a>
+</div>
+
 
 ---
 
