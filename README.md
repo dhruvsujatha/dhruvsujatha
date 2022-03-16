@@ -68,6 +68,6 @@
 <div align="center">
 <h2 align="center">My Statistics:</h2>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=dhruvsujatha">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsujatha&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=dhruvsujatha">
 <img src="https://github-readme-stats.vercel.app/api?username=dhruvsujatha">
 </div>
