@@ -58,3 +58,14 @@
  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FASTAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"></a>
  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/OPEN SOURCE DEV-3DA639?logo=opensourceinitiative&logoColor=white&style=for-the-badge"></a>
 </div>
+
+---
+
+<div align="center">
+<h2 align="center">My Statistics:</h2>
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=dhruvsujatha">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsujatha&layout=compact">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dhruvsujatha">
+</div>
+
+---
