@@ -25,8 +25,12 @@
 <h2 align="center">About Me:</h2>
 <p style="font-size: 20px; font-family:Inconsolata, monospace" align="center"> 👋🏽 I am Dhruv Sujatha, a student at <a href="https://purdue.edu">Purdue University</a>  currently majoring Data Science.</p>
 <p style="font-size: 20px; font-family:Inconsolata, monospace" align="center"> 🖥 I am a self-taught programmer and I am currently learning Python, Java, and C++.</p>
-<p style="font-size: 20px; font-family:Inconsolata, monospace" align="center"> ⭐️ I am currently working on my <a href="https://dsujatha.xyz">portfolio website</a>.</p>
+<p style="font-size: 20px; font-family:Inconsolata, monospace" align="center"> ⭐️ My current project is my <a href="https://dsujatha.xyz">portfolio website</a>.</p>
+<p style="font-size: 20px; font-family:Inconsolata, monospace" align="center"> 👔 I am currently working at <a href="https://rcac.purdue.edu">Rosen Center for Advance Computing</a> as a Student Systems Administrator.</p>
 <p style="font-size: 20px; font-family:Inconsolata, monospace" align="center"> 🤞🏽 I have done many projects in my free time and I am always looking to learn new things. Hopefully you find some of them interesting.</p>
+
+
+---
 
 <div align="center">
  <h2 align="center">My Skills:</h2>
@@ -36,12 +40,11 @@
  <a href="https://tensorflow.org"><img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"></a>
  <a href="https://arduino.cc"><img src="https://img.shields.io/badge/ARDUINO-00979D?logo=arduino&logoColor=white&style=for-the-badge"></a>
  <a href="https://www.anaconda.com/about-us"><img src="https://img.shields.io/badge/ANACONDA-44A833?logo=anaconda&logoColor=white&style=for-the-badge"></a>
- <a href="https://centos.org"><img src="https://img.shields.io/badge/CENT OS-262577?logo=centos&logoColor=white&style=for-the-badge"></a>
  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/DOCKER-2496ED?logo=docker&logoColor=white&style=for-the-badge"></a>
  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge"></a>
  <a href="https://www.proxmox.com/en/"><img src="https://img.shields.io/badge/ProxMox-E57000?logo=proxmox&logoColor=white&style=for-the-badge"></a>
  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NUMPY-013243?logo=numpy&logoColor=white&style=for-the-badge"></a>
  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/PANDAS-150458?logo=pandas&logoColor=white&style=for-the-badge"></a>
  <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FASTAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"></a>
- <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FASTAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"></a>
+ <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/OPEN SOURCE DEV-3DA639?logo=opensourceinitiative&logoColor=white&style=for-the-badge"></a>
 </div>
