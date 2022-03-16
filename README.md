@@ -61,11 +61,13 @@
 
 ---
 
+<h3 align="center"><img src="public/img/handshake.gif" width=60/>Impressed with what you see? Connect with me.  Not Impressed? Connect with me anyways. I would love to hear from you.</h3>
+
+---
+
 <div align="center">
 <h2 align="center">My Statistics:</h2>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=dhruvsujatha">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsujatha&layout=compact">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dhruvsujatha">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvsujatha&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=dhruvsujatha">
 </div>
-
----
